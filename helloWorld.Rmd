@@ -1,6 +1,6 @@
 ---
 title: "HelloWorld.md"
-author: "Casey"
+author: "Casey Haines"
 date: "5/18/2020"
 output: pdf_document
 ---
